@@ -14,6 +14,12 @@ In this scenario, we're addressing SMB shares that exist on your network and whe
 
 Let's get our boots on the ground and jump right in!
 
+## Disclaimer
+
+This repository and the data provided has been created purely for the purposes of academic research and for the development of effective security techniques and is not intended to be used to attack systems except where explicitly authorized. It is your responsibility to obey all applicable local, state and federal laws. 
+
+Project maintainers assume no liability and are not responsible for any misuse or damage caused by the data therein.
+
 ## Stage 1 - Identify Shares:
 The first step we're going to take is to scan our network and list any visible shares. To accomplish this, we're going to use a native windows command to view shares that are on a target machine. This is a powerful native tool and doesn't require any admin access to run, but the output is messy, but with some PowerShell-Fu we'll convert the output into a workable object or into a format we can export.
 
