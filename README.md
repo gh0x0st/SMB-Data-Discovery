@@ -1,8 +1,4 @@
 # SMB-Data-Discovery
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/gh0x0st/SMB-Data-Discovery/graphs/commit-activity)
-[![GitHub license](https://img.shields.io/github/license/gh0x0st/SMB-Data-Discovery)](https://github.com/gh0x0st/SMB-Data-Discovery/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/gh0x0st/SMB-Data-Discovery)](https://github.com/gh0x0st/SMB-Data-Discovery/network)
-[![GitHub issues](https://img.shields.io/github/issues/gh0x0st/SMB-Data-Discovery)](https://github.com/gh0x0st/SMB-Data-Discovery/issues)
 
 In order to protect the data you store on information systems, you must know where it resides, whether it's protected health information (PHI), personally identifiable information (PII) or even passwords. In the case for Healthcare, at a minimum, you should have an inventory of what environments house PHI, allowing you identify your high risk environment(s) and implement appropriate safeguards.
 
