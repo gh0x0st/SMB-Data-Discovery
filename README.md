@@ -135,8 +135,10 @@ Length         : 1458900
 CreationTime   : 1/7/2020 9:19:43 AM
 LastAccessTime : 1/9/2020 5:05:20 AM
 LastWriteTime  : 1/7/2020 9:19:43 AM
-If you want the full picture of what could be exposed, you're going to want to inventory all visible files, but we can dial this down to specific file extensions and set a max file size. If we only care about human readable files, such as txt and csv as a quick example, we can.
 ```
+
+If you want the full picture of what could be exposed, you're going to want to inventory all visible files, but we can dial this down to specific file extensions and set a max file size. If we only care about human readable files, such as txt and csv as a quick example, we can.
+
 
 #### Generalized Output
 ```PowerShell
